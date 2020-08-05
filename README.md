@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Nick,
 
-### I share my learning journey here:
+### I share my learning journey here: https://nickdocode.com/
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
