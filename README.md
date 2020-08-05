@@ -2,8 +2,8 @@
 
 ### I share my learning journey here:
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 <!--
