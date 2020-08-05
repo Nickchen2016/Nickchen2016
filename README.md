@@ -1,6 +1,4 @@
-### Hi there 👋, I am Nick
-
-### A Software engineer specialized in full-stack Javascript development. Passionate about developing user-friendly applications while continuously keeping up with the latest tech trends.</br>
+### Hi there 👋 I am Nick,
 
 ### I share my learning journey here:
 
