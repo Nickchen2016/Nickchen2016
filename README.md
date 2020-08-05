@@ -1,4 +1,12 @@
-### Hi there 👋 ✊🖐✌️
+### Hi there 👋, I am Nick
+
+### A Software engineer specialized in full-stack Javascript development. Passionate about developing user-friendly applications while continuously keeping up with the latest tech trends.</br>
+
+### I share my learning journey here:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **Nickchen2016/Nickchen2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
