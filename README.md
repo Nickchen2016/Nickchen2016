@@ -5,7 +5,7 @@
 ### ![dwelling](https://github.com/Nickchen2016/Nickchen2016/blob/master/img/home.gif)
 
 
-### Latest TouTube Videos
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Shopify & Vuejs item counter](https://www.youtube.com/watch?v=gi-4KJMH-6w)
 - [talk io](https://www.youtube.com/watch?v=EId3phbwzns)
