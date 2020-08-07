@@ -4,7 +4,6 @@
 
 ### ![dwelling](https://github.com/Nickchen2016/Nickchen2016/blob/master/img/home.gif)
 
-
 ### Latest TouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
